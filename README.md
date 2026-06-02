@@ -25,3 +25,11 @@ Mini-grid dominance is prevalent across all 6 sensitivity scenarios tested.
 ## Note on Data Files
 `Benin_settlement_properties.geojson` exceeds GitHub's 25MB file size limit and is not included in this repository. 
 This file was provided by VIDA as part of the technical assessment.
+
+## Settlement Data
+`Benin_settlement_properties.geojson` is hosted separately.
+
+**Download here:** [Benin_settlement_properties.geojson](paste-your-google-drive-link-here)
+
+To run the notebook, download this file and place it in the same 
+folder as the notebook, or update the file path to your Google Drive location.
