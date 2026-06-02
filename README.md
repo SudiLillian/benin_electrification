@@ -20,5 +20,8 @@ Least-cost electrification analysis for 17,205 settlements across Benin, coverin
 | Solar Home System | 0 | 0 |
 Mini-grid dominance is prevalent across all 6 sensitivity scenarios tested.
 
-
 ## Repository Structure
+
+## Note on Data Files
+`Benin_settlement_properties.geojson` exceeds GitHub's 25MB file size limit and is not included in this repository. 
+This file was provided by VIDA as part of the technical assessment.
