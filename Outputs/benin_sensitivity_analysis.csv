@@ -1,0 +1,7 @@
+Scenario,Description,Grid Settlements,MG Settlements,SHS Settlements,Grid Pop (M),MG Pop (M),SHS Pop (M)
+Base Case,Our central assumptions,179,17026,0,7.66,6.45,0.0
+High Grid Cost,+75% grid cost- rocky/difficult terrain in north Benin,142,17063,0,7.35,6.76,0.0
+Low MG Cost (2030),-40% mini-grid cost- IRENA projects solar cost reductions,6,17199,0,0.1,14.02,0.0
+High Discount 12%,Commercial finance with country risk premium,164,17041,0,7.58,6.53,0.0
+Low Discount 5%,Concessional/grant finance available,198,17007,0,7.73,6.38,0.0
+With Planned Grid,Using planned transmission lines as grid proximity measure,221,16984,0,8.1,6.01,0.0
